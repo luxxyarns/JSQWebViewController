@@ -5,5 +5,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "JSQWebViewController"
+    name: "JSQWebViewController",
+        platforms: [.iOS(.v14)]
+
 ) 
