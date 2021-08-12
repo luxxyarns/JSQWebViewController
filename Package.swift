@@ -15,6 +15,9 @@
 //  Copyright © 2015 Jesse Squires
 //  Released under an MIT license: http://opensource.org/licenses/MIT
 //
+// swift-tools-version:5.4
+// The swift-tools-version declares the minimum version of Swift required to build this package.
+
 
 import PackageDescription
 
